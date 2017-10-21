@@ -1,2 +1,2 @@
 # dombot
-dombot is a chatbot that i making for freinds
+dombot is a chatbot that i making for friends
