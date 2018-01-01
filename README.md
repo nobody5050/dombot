@@ -1,2 +1,2 @@
 # dombot
-dombot is a chatbot that i making for friends
+dombot is a old project of mine i never got around to finnishing it.
